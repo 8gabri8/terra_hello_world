@@ -3,3 +3,4 @@ workflows:
   hello_world:
     subclass: WDL
     primaryDescriptorPath: hello_world.wdl
+
